@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zackzellto
 - 👀 I’m interested in ... Building things people want to use.
-- 🌱 I’m currently learning ... JavaScript, HTML, CSS.
+- 🌱 I’m currently learning ... React, Node.js, C#
 - 💞️ I’m looking to collaborate on ... Projects that people deem beneficial to humans!
 - 📫 How to reach me ... 
 
