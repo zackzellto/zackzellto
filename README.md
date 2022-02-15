@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zackzellto
 - 👀 I’m interested in ... Building things people want to use.
-- 🌱 I’m currently learning ... React, Node.js, C#
-- 💞️ I’m looking to collaborate on ... Projects that people deem beneficial to humans!
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ... React, Node.js, C#, .NET Core
+- 💞️ I’m looking to collaborate on ... Projects that are deemed beneficial to humans...or the internet!
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/zackzellto/)
 
 <!---
 zackzellto/zackzellto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
